@@ -14,5 +14,8 @@ Technical Lead | Solution Architect
 - Telecom AI Use Cases
 
 ## Started On
+## Day 1
+
+Started learning Git.
 
 September 2026

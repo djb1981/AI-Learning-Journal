@@ -4,18 +4,42 @@
 
 Technical Lead | Solution Architect
 
-## Learning Goals
+## Objective
+
+Document learning journey across:
 
 - AI Foundations
-- GenAI
+- Prompt Engineering
+- LLMs
 - RAG
 - AI Agents
 - Azure AI
+- Copilot Studio
 - Telecom AI Use Cases
 
-## Started On
-## Day 1
+## Learning Notes
 
-Started learning Git.
+| Topic | Status |
+|--------|--------|
+| Git Basics | Complete |
+| AI Fundamentals | In Progress |
+| Prompt Engineering | Pending |
+| LLMs | Pending |
+| RAG | Pending |
+| AI Agents | Pending |
 
-September 2026
+## Repository Structure
+
+01-Git-Basics.md
+02-AI-Fundamentals.md
+03-Prompt-Engineering.md
+04-LLMs.md
+05-RAG.md
+06-Vector-Databases.md
+07-AI-Agents.md
+08-MCP.md
+09-Azure-AI.md
+10-Copilot-Studio.md
+11-Telecom-AI-UseCases.md
+12-Architecture-Patterns.md
+``
